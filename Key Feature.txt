@@ -1,0 +1,1 @@
+Lets user play Snake-Game. User can control speed as well as expantion rate of snake 
